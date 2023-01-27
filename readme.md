@@ -3,13 +3,13 @@
 ## Junior front-end developer
 
 I started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻
+
 <h2>Contact</h2>
 
-- ✉️ [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
+- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" /> [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
 
-- <a href="https://discord.com/users/maKs#9517" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="maKs#9517" height="21" width="21" />
-<span>maKs#9517</span></a>
-  
+- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="maKs#9517" height="36" width="36" /> <a href="https://discord.com/users/maKs#9517" target="_blank" rel="noreferrer"><span>maKs#9517</span></a>
+
 </p>
 
 ### Skills
@@ -37,5 +37,5 @@ I started my adventure in high school as a computer science major. After school 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
