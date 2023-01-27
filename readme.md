@@ -4,13 +4,7 @@
 
 <p>I started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
 
-<h2>Contact</h2>
 
-- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" /> [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
-
-- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs#9517" height="36" width="36" /> <a target="_blank" href="https://discord.com/users/maKs#9517" rel="noreferrer"><span>maKs#9517</span></a>
-
-</p>
 
 ### Skills
 
@@ -39,3 +33,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<h2>Contact</h2>
+
+- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" /> [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
+
+- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs#9517" height="36" width="36" /> <a target="_blank" href="https://discord.com/users/maKs#9517" rel="noreferrer"><span>maKs#9517</span></a>
+
+</p>
