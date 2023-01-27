@@ -6,9 +6,9 @@
 
 <h2>Contact</h2>
 
-- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" />  [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
+- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" /> [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
 
-- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs#9517" height="36" width="36" /> <a href="https://discord.com/users/maKs#9517" target="_blank" rel="noreferrer"><span>maKs#9517</span></a>
+- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs#9517" height="36" width="36" /> <a target="_blank" href="https://discord.com/users/maKs#9517" rel="noreferrer"><span>maKs#9517</span></a>
 
 </p>
 
