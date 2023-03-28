@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Maksymilian.
 
-## Freelancer
+## Front-end Developer in <a href="https://utopik.pl/">Utopik - Radosław Paszkiet</a>
 
 <p>I started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
 
