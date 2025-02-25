@@ -33,7 +33,7 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <h2>Contact</h2>
 
-- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="MintMissy#5474" height="36" width="36" /> [maksymiliantomowiak@gmail.com](mailto:maksymiliantomowiak@gmail.com)
+- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="maksymiliantomowiak321@gmail.com" height="36" width="36" /> [maksymiliantomowiak321@gmail.com](mailto:maksymiliantomowiak321@gmail.com)
 
 - <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs.t" height="36" width="36" /> <a target="_blank" href="https://discord.com/users/maKs.t" rel="noreferrer"><span>maKs.t</span></a>
 
