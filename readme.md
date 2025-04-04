@@ -1,4 +1,4 @@
-## Hi, I'm Maksymilian Frontend Developer 
+## Hi, I'm Maksymilian
 
 <p>Im Frontend Developer, i started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
 
