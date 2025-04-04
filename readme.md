@@ -1,6 +1,6 @@
-## Hi, I'm Maksymilian, Frontend Developer 
+## Hi, I'm Maksymilian Frontend Developer 
 
-<p>I started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
+<p>Im Frontend Developer, i started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
 
 
 
@@ -23,9 +23,6 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
-	 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- 	</a>
 </p>
 
 <h2>Contact</h2>
