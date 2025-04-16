@@ -4,7 +4,6 @@ I'm a **Frontend Developer** with a journey that began back in high school as a 
 
 Outside of coding, you’ll probably find me at the gym, immersed in a video game, or learning something new in tech. 💻🎮🏋️
 
----
 
 ## 🛠️ Tech Stack
 
@@ -18,18 +17,15 @@ Outside of coding, you’ll probably find me at the gym, immersed in a video gam
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
 ## 🧩 Other Tools & Technologies
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliantomowiak321@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-makS.t-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/maks.t)
 
----
