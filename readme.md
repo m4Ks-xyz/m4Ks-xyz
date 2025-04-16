@@ -1,34 +1,35 @@
-## Hi, I'm Maksymilian
+# 👋 Hi, I'm Maksymilian
 
-<p>Im Frontend Developer, i started my adventure in high school as a computer science major. After school I chose my goal and decided to become a front-end developer. In addition to computers, I love going to the gym and playing video games 🎮🏋️💻</p>
+I'm a **Frontend Developer** with a journey that began back in high school as a computer science major. Since then, I've pursued my goal of becoming a skilled front-end developer — and I haven't looked back!
 
+Outside of coding, you’ll probably find me at the gym, immersed in a video game, or learning something new in tech. 💻🎮🏋️
 
+---
 
-### Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-A80000?style=for-the-badge&logo=reactivex&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3>Other Technologies</h3>
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" alt="VS Code" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-</p>
+---
 
-<h2>Contact</h2>
+## 🧩 Other Tools & Technologies
 
-- <img align="center" src="https://preview.redd.it/b2qwztedqkk61.png?width=2048&format=png&auto=webp&s=63d8b328460bbab0d109d3faaf3178dc0f5f56a9" alt="maksymiliantomowiak321@gmail.com" height="36" width="36" /> [maksymiliantomowiak321@gmail.com](mailto:maksymiliantomowiak321@gmail.com)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" target="_blank" alt="maKs.t" height="36" width="36" /> <a target="_blank" href="https://discord.com/users/maKs.t" rel="noreferrer"><span>maKs.t</span></a>
+---
 
-</p>
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliantomowiak321@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-makS.t-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/maks.t)
+
+---
