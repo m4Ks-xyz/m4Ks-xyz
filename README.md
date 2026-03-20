@@ -17,7 +17,7 @@ Outside of coding, you’ll probably find me at the gym, immersed in a video gam
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![RWD](https://img.shields.io/badge/RWD-Mobile_First-06B6D4?style=for-the-badge&logo=css3&logoColor=white)
+ 
 
 ## 🧩 Other Tools & Technologies
 
@@ -26,10 +26,7 @@ Outside of coding, you’ll probably find me at the gym, immersed in a video gam
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌐 Networking & API
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-
+ 
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliantomowiak321@gmail.com)
